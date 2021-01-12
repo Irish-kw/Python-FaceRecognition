@@ -6,6 +6,7 @@ pip install -r requirements.txt
 requirement :
 
 numpy==1.19.5
+
 opencv-python==4.5.1.48
 
 
